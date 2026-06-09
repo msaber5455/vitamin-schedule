@@ -48,7 +48,10 @@
       "breakfast:Limitless B-Complex ODF": true,
       "breakfast:Vantirect": true,
       "breakfast:Korean Red Ginseng": true,
-      "breakfast:Ginkgo Biloba": true
+      "breakfast:Ginkgo Biloba": true,
+      "lunch:Omega 3": true,
+      "lunch:Ossofortin D3": true,
+      "lunch:Maca 1000": true
     }
   },
   "viewDate": "2026-06-08"

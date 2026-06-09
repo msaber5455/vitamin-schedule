@@ -1,5 +1,9 @@
 {
   "startDate": "2026-04-15",
-  "records": {},
-  "viewDate": "2026-06-09"
+  "records": {
+    "2026-04-15": {
+      "breakfast:Limitless Man": true
+    }
+  },
+  "viewDate": "2026-04-15"
 }

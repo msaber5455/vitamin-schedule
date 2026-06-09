@@ -41,7 +41,7 @@
       "breakfast:Ginkgo Biloba": true,
       "lunch:Omega 3": true,
       "lunch:Maca 1000": true,
-      "sleep:Ashwagandha 600": false
+      "sleep:Ashwagandha 600": true
     },
     "2026-06-08": {
       "breakfast:Limitless Man": true,
@@ -590,5 +590,5 @@
       "sleep:Ashwagandha 600": true
     }
   },
-  "viewDate": "2026-04-17"
+  "viewDate": "2026-06-09"
 }

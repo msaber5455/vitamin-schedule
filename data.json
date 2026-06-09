@@ -470,7 +470,7 @@
       "breakfast:Korean Red Ginseng": true,
       "breakfast:Ginkgo Biloba": true,
       "lunch:Omega 3": true,
-      "lunch:Ossofortin D3": false,
+      "lunch:Ossofortin D3": true,
       "lunch:Maca 1000": true
     }
   },

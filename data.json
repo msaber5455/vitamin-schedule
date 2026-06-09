@@ -2,8 +2,8 @@
   "startDate": "2026-04-15",
   "records": {
     "2026-04-15": {
-      "breakfast:Limitless Man": true,
-      "breakfast:Limitless B-Complex ODF": true,
+      "breakfast:Limitless Man": false,
+      "breakfast:Limitless B-Complex ODF": false,
       "breakfast:Vantirect": false,
       "breakfast:Korean Red Ginseng": false,
       "breakfast:Ginkgo Biloba": false,

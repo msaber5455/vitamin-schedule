@@ -23,11 +23,11 @@
       "sleep:Ashwagandha 600": true
     },
     "2026-04-17": {
-      "breakfast:Limitless Man": true,
-      "breakfast:Limitless B-Complex ODF": true,
-      "breakfast:Vantirect": true,
-      "breakfast:Korean Red Ginseng": true,
-      "breakfast:Ginkgo Biloba": true,
+      "breakfast:Limitless Man": false,
+      "breakfast:Limitless B-Complex ODF": false,
+      "breakfast:Vantirect": false,
+      "breakfast:Korean Red Ginseng": false,
+      "breakfast:Ginkgo Biloba": false,
       "lunch:Omega 3": true,
       "lunch:Ossofortin D3": true,
       "lunch:Maca 1000": true,
@@ -590,5 +590,5 @@
       "sleep:Ashwagandha 600": true
     }
   },
-  "viewDate": "2026-04-18"
+  "viewDate": "2026-04-17"
 }

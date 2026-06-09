@@ -8,9 +8,9 @@
       "breakfast:Korean Red Ginseng": false,
       "breakfast:Ginkgo Biloba": false,
       "lunch:Omega 3": false,
-      "lunch:Ossofortin D3": true,
-      "lunch:Maca 1000": true,
-      "sleep:Ashwagandha 600": true
+      "lunch:Ossofortin D3": false,
+      "lunch:Maca 1000": false,
+      "sleep:Ashwagandha 600": false
     }
   },
   "viewDate": "2026-04-15"

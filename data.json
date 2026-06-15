@@ -641,10 +641,17 @@
   "viewDate": "2026-06-16",
   "labResults": [
     {
-      "id": "1781566478252",
-      "name": "Glucose Random",
-      "value": "78",
-      "unit": "mg/dl",
+      "id": "1781566515376",
+      "name": "CRP",
+      "value": "1.1",
+      "unit": "mg/l",
+      "date": "2025-12-29"
+    },
+    {
+      "id": "1781566428801",
+      "name": "AST (SGOT)",
+      "value": "41",
+      "unit": "U/L",
       "date": "2025-12-29"
     },
     {
@@ -655,10 +662,10 @@
       "date": "2025-12-29"
     },
     {
-      "id": "1781566428801",
-      "name": "AST (SGOT)",
-      "value": "41",
-      "unit": "U/L",
+      "id": "1781566478252",
+      "name": "Glucose Random",
+      "value": "78",
+      "unit": "mg/dl",
       "date": "2025-12-29"
     }
   ]

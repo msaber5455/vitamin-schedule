@@ -632,9 +632,9 @@
       "sleep:Ashwagandha 600": true
     },
     "2026-06-16": {
-      "breakfast:Tongkat Ali": true,
+      "breakfast:Tongkat Ali": false,
       "breakfast:Limitless Man": true,
-      "lunch:Omega 3": false,
+      "lunch:Omega 3": true,
       "lunch:Tribxon": false
     }
   },

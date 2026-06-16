@@ -634,8 +634,10 @@
     "2026-06-16": {
       "breakfast:Tongkat Ali": true,
       "breakfast:Limitless Man": true,
-      "lunch:Omega 3": false,
-      "lunch:Tribxon": false
+      "lunch:Omega 3": true,
+      "lunch:Tribxon": true,
+      "lunch:Ossofortin D3": true,
+      "lunch:Netalopalm": true
     }
   },
   "viewDate": "2026-06-16",

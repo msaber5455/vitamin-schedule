@@ -655,7 +655,8 @@
       "lunch:Omega 3": true,
       "lunch:Ossofortin D3": true,
       "lunch:Netalopalm": true,
-      "lunch:Tribxon": true
+      "lunch:Tribxon": true,
+      "sleep:Ashwagandha 600": true
     },
     "2026-06-19": {
       "breakfast:Limitless Power Max": true,
@@ -675,7 +676,7 @@
       "lunch:Tribxon": true
     }
   },
-  "viewDate": "2026-06-20",
+  "viewDate": "2026-06-18",
   "labResults": [
     {
       "id": "1781566783202",
